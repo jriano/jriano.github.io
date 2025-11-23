@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The basics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Work**: Since November 2017, I have been working as a Linux Systems Administrator at [Rezometry](https://rezometry.com/). Prior to that I worked as a Systems Administrator at [Cogint](https://http://ididata.com/) (2016-2017), and as a Linux Engineer at [Amadeus](https://amadeus.com/en).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Education**: I obtained my Bachelors Degree in Computer Science at [Florida International University](https://www.fiu.edu/) in 2015, I also hold an Assocciates Degree in Computer Science from [Miami Dade College](https://www.mdc.edu) (2005).
 
-What else do you need?
+**Professional Interests**: I enjoy all Linux and automation, Python and Bash are my friends. Lately, I spend a big part of my time setting up infrastructure in AWS.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Profiles**: You can find more information about me here:
+* [Resume](http://smarturl.it/juan_riano_resume)
+* [linkedin.com/in/jriano](https://www.linkedin.com/in/jriano/)
